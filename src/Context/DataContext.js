@@ -1,6 +1,5 @@
 import { createContext, useState, useEffect } from "react";
-import Post from "../Post";
-import PostLayout from "../PostLayout";
+
 
 import { format } from "date-fns";
 // import {Link} from "react-router-dom"
