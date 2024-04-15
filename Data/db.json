@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "1st Post",
+      "datetime": "February 27, 2024 11:37:20 PM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    },
+    {
+      "id": "2",
+      "title": "2nd Post",
+      "datetime": "February 27, 2024 11:59:58 PM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit bdbdbdfb"
+    },
+    {
+      "id": "31",
+      "title": "uuu",
+      "datetime": "February 28, 2024 10:14:15 PM",
+      "body": "nnnnn mmmmm rrrrr"
+    },
+    {
+      "id": "311",
+      "title": "Context API ",
+      "datetime": "Mar 09, 2024 1:31:22 PM",
+      "body": "Context API and useContext are integral parts of React for managing global state and sharing data between components without manually passing props down through every level of the component tree.\n\nProvider: It allows consuming components to subscribe to context changes. Providers supply the context to the consuming components.\nConsumer: It allows consuming components to subscribe to context changes. Consumers consume the context supplied by the provider and re-render when the context value changes.\nContext Object: It's an object that holds the shared data."
+    },
+    {
+      "id": "3111",
+      "title": "useContext hook",
+      "datetime": "Mar 09, 2024 1:32:18 PM",
+      "body": "useContext is a React Hook that allows functional components to consume context. It accepts a context object (created by React.createContext) and returns the current context value for that context. useContext is an alternative to the Consumer component in class components."
+    },
+    {
+      "id": "31111",
+      "title": "Congrats !!",
+      "datetime": "Mar 09, 2024 3:23:49 PM",
+      "body": "Finally I have finished REACT JS full course of Balachandra's ..."
+    }
+  ]
+}
